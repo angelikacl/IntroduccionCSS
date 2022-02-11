@@ -1,5 +1,5 @@
 # IntroduccionCSS
-Ejercicio 4 Curso HTML y CSS
+Ejercicio 4 Curso HTML y CSS OpenBootcamp
 
 Para comenzar a trabajar con CSS, crearéis un documento HTML y otro CSS, en el primero habrá:
 
